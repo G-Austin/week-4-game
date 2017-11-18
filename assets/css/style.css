@@ -1,0 +1,34 @@
+
+.crystals {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.crystal {
+	border: 1px solid black;
+	height: 200px;
+	width: 200px;
+}
+
+img {
+	width: 50px;
+}
+
+.totals{
+	padding-left: 15px;
+	border: 1px solid black;
+
+}
+
+/*.header {
+	background-color: blue;
+}
+.instructions {
+  		border: solid, black, 2px;
+  		width: 40%;
+  	}
+
+.randomNumber {
+		background-color: blue;
+}*/
